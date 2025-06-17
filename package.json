@@ -1,0 +1,13 @@
+{
+  "name": "nickhawn-readme-generator",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate-readme": "tsx scripts/generate-readme.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
