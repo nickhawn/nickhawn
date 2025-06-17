@@ -1,6 +1,6 @@
 import { exec } from "child_process";
-import { promisify } from "util";
 import fs from "fs";
+import { promisify } from "util";
 
 const execAsync = promisify(exec);
 
@@ -81,10 +81,10 @@ async function main(): Promise<void> {
 
     const readmeContent = generateReadme(posts);
 
-    fs.writeFileSync("README.md", readmeContent);
-    console.log("README.md updated successfully!");
+    fs.writeFileSync("readme.md", readmeContent);
+    console.log("readme.md updated successfully!");
   } catch (error) {
-    console.error("Error generating README:", error);
+    console.error("Error generating readme.md:", error);
     process.exit(1);
   }
 }
