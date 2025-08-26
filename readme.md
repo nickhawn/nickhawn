@@ -2,7 +2,7 @@ Hi, I'm Nick Hawn. I'm a Software Developer based in Grand Rapids, Michigan. Cur
 
 **Latest Blog Posts**
 
-- [Building a News Agent with LangGraph](https://spin.atomicobject.com/build-ai-agent-langgraph/)
+- [Building an AI Agent with LangGraph](https://spin.atomicobject.com/build-ai-agent-langgraph/)
 - [The Power of Context In Cursor and Other Tips To Get the Most out of the AI Editor](https://spin.atomicobject.com/cursor-editor-tips/)
 - [Empower Teams Through Thoughtful Transitions](https://spin.atomicobject.com/teams-thoughtful-transitions/)
 - [Build Resilient API Clients: Implementing Retry and Circuit Breaker Patterns](https://spin.atomicobject.com/retry-circuit-breaker-patterns/)
